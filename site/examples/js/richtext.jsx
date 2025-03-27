@@ -1,8 +1,8 @@
-import isHotkey from 'is-hotkey'
+asdfimport isHotkey from 'is-hotkey'
 import React, { useCallback, useMemo } from 'react'
 import {
   Editor,
-  Element as SlateElement,
+  Element as asdfasdfasfdadsfasdfSlateElement,
   Transforms,
   createEditor,
 } from 'slate'
